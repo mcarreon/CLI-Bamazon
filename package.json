@@ -1,0 +1,25 @@
+{
+  "name": "cli-bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcarreon/CLI-Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcarreon/CLI-Bamazon/issues"
+  },
+  "homepage": "https://github.com/mcarreon/CLI-Bamazon#readme"
+}
